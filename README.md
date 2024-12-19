@@ -59,19 +59,19 @@ Cross-team collaboration and communication
 
 ##  GitHub Stats:
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ifeomacloud&show_icons=true&theme=dark&count_private=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sammy-Git&show_icons=true&theme=dark&count_private=true)
 
-![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=Ifeomacloud&theme=dark&hide_border=false)
+![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=Sammy-Git&theme=dark&hide_border=false)
 
 
 ##  Most Used Languages:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ifeomacloud&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sammy-Git&layout=compact&theme=dark)
 
 
 ##  GitHub Trophies:
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ifeomacloud&theme=darkhub&margin-w=15&margin-h=15)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sammy-Git&theme=darkhub&margin-w=15&margin-h=15)
 
 ###  Top Contributed Repositories
 
