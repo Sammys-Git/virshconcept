@@ -80,8 +80,8 @@ Cross-team collaboration and communication
 <!-- Contact Section -->
 ## 📫 **Let's Connect**
 <p align="center">
-  <a href="mailto:ifeomaokoyequeen@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/ifeomaqueendalineokoye/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/></a>
+  <a href="mailto:njokusamuel33@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/samuel-njoku-2118a11b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/></a>
 </p>
 
 ---
@@ -93,7 +93,7 @@ Cross-team collaboration and communication
 
 
 <!---
-Ifeomacloud/Ifeomacloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+virshconcept/virshconcept is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
@@ -108,7 +108,3 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<!---
-virshconcept/virshconcept is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
