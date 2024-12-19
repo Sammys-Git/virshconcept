@@ -5,15 +5,29 @@
 
 <!-- About Me Section -->
 ## 🚀 **About Me**
-Hi! 👋 I'm **Samuel Njoku**, a passionate Cloud Security and DevOps Engineer with hands-on experience in:
-- ☁️ **Google Cloud Platform** , **Microsoft Azure** and **AWS**
-- 🛠️ **Infrastructure as Code** using **Terraform**  
-- 🚢 **Kubernetes** for container orchestration  
-- 🐙 **Git** for version control and collaborative workflows
-- 🖥️ **Visual Studio Code (VS Code)** for efficient development
-- 🐧 **Linux Systems** for system administration and troubleshooting
--  📊 **Monitoring and Observability** for implementing tools like **Datadog** and **Cockpit** to ensure system performance, visibility, and reliability.
+Hi! 👋 I'm **Samuel Njoku**, a passionate and results-driven Cloud Security and DevOps Engineer with a deep understanding of cloud infrastructure, security protocols, and automation practices. With hands-on experience in designing, implementing, and securing cloud environments, I specialize in building and maintaining robust, scalable, and secure cloud solutions. My expertise extends across a variety of cloud platforms, including AWS, Azure, and Google Cloud, where I leverage best practices in continuous integration/continuous delivery (CI/CD) and security automation to ensure optimal performance and minimal risk.
+As a Technical Support specialist, I thrive on resolving complex technical issues, providing high-quality solutions, and offering proactive support to ensure that systems remain secure and efficient. Whether it's automating infrastructure deployment using tools like Terraform and Ansible, or implementing security measures such as encryption, identity management, and vulnerability assessments, I am committed to delivering solutions that align with both business and security objectives.
+I also collaborate closely with development and operations teams to streamline workflows and ensure the seamless integration of security practices in DevOps processes. My problem-solving skills, strong technical foundation, and passion for continuous learning help me stay at the forefront of cloud security and DevOps advancements.
 
+Key Skills:
+
+Cloud platforms: AWS, Azure, Gcp with experience in multi-cloud environments 
+
+Security best practices: IAM, encryption, firewalls, vulnerability assessments
+
+Automation tools: Terraform, Ansible, Jenkins, GitLab CI
+
+CI/CD pipeline design and management
+
+Containerization: Docker, Kubernetes
+
+Monitoring and logging: Prometheus, Grafana, Datadog
+
+Incident response and troubleshooting
+
+Technical support and troubleshooting in a fast-paced environment
+
+Cross-team collaboration and communication
 ---
 
 
